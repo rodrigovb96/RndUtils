@@ -1,2 +1,2 @@
 # RndUtils
-Random utilities for programmers
+A Collection of random utilities for helping the life of programmers
